@@ -1153,7 +1153,9 @@ body>footer #user_bio .inner, .post-footer #user_bio .inner {
     width: 62px;
     height: 62px;
     background-color: #fff;
+    background-size: contain;
     border: 1px solid rgba(33, 39, 45, 0.17);
+    border-radius: 50%;
     -webkit-border-radius: 60px;
     -moz-border-radius: 60px;
     -ms-border-radius: 60px;
