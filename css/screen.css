@@ -1088,6 +1088,9 @@ body>footer .photo span, .post-footer .photo span {
     position: absolute;
     background-repeat: no-repeat;
     background-position: center center;
+    background-size: cover;
+    margin: 2px;
+    border-radius: 50%;
     top: 0;
     right: 0;
     bottom: 0;
