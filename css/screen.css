@@ -1180,6 +1180,7 @@ body>footer #user_bio .inner, .post-footer #user_bio .inner {
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
+    margin: 2px;
     position: absolute;
     top: -1px;
     right: -1px;
