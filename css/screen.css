@@ -1111,7 +1111,7 @@ body>footer .photo.circle span, .post-footer .photo.circle span {
     right: -1px;
     bottom: -1px;
     left: -1px;
-    background-size: contain;
+    background-size: cover;
 }
 
 body>footer .photo img, .post-footer .photo img {
