@@ -1604,15 +1604,9 @@ body.touch.user article .readmore {
     }
     #blog_badge {
         top: 14px;
-        right: 10px;
-        width: 43px;
-        height: 43px
+        right: 10px
     }
     #blog_badge span {
-        top: 9px;
-        right: 9px;
-        bottom: 9px;
-        left: 9px;
     }
     html[dir=rtl] #blog_badge span {
         margin-left: 0;
